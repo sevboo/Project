@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity
     Thread thread;
     String sendDate = "HI Server";
     String recvDate = "";
+    //int a
     ProgressDialog dialog;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
